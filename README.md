@@ -34,9 +34,6 @@ I'm a creative developer with a passion for building engaging web applications, 
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,threejs,git,github,vscode&perline=6" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyakalra05&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
 
 ## 🎯 Featured Projects
 
