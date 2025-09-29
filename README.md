@@ -156,16 +156,20 @@ I love creating games! Here are some of my gaming projects:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyakalra05&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
-</div>
-
-<!-- 🔄 Updated contribution graph -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/manyakalra05/manyakalra05/master/profile-summary-card-output/monokai/0-profile-details.svg" alt="GitHub Contribution Graph" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manyakalra05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyakalra05&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyakalra05&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyakalra05&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manyakalra05&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manyakalra05&theme=radical" alt="Profile Details" />
 </div>
 
 
