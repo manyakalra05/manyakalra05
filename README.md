@@ -159,13 +159,15 @@ I love creating games! Here are some of my gaming projects:
   <img src="https://github-readme-stats.vercel.app/api?username=manyakalra05&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
 </div>
 
+<!-- 🔄 Updated contribution graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manyakalra05&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/manyakalra05/manyakalra05/master/profile-summary-card-output/monokai/0-profile-details.svg" alt="GitHub Contribution Graph" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyakalra05&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </div>
+
 
 ## 🏆 GitHub Trophies
 
